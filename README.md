@@ -1,5 +1,4 @@
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.3D-Lidar-wall-detection_ws_ws)
 
 # Real-Time Wall Detection from 3D LiDAR Data in ROS
 
@@ -115,15 +114,12 @@ This launch file should handle node startup and any necessary topic remappings. 
 * **Indoor Mobile Robotics:** Wall detection aids navigation and SLAM in corridors or rooms (e.g. wall-following robots, indoor mapping). Identifying walls simplifies planning by providing clear boundaries.
 * **Surveying & Construction:** Automated extraction of planar building surfaces from scans can be used for creating as-built building models or checking structural layouts.
 * **Augmented Reality & Simulation:** Fast wall extraction helps reconstruct 3D scenes from LiDAR scans, useful in AR applications or simulated environments where knowing vertical boundaries is important.
-
 ---
 <br>
 
 ## Questions or Issues
 If you have any questions or issues, feel free to ask them in the Issues section.
-
 ---
 <br>
-
 ## Lisence
 This project is released under the Apache License 2.0
